@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-integration-directory-flutter",
+  "capabilityKey": "liberusoftware/module-cms-integration-directory",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_integration_directory_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/integration-directory.md",
+  "presentationPlan": "projects/cms/flutter/integration-directory.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
